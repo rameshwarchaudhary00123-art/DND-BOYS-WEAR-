@@ -1,0 +1,6 @@
+{
+  "name": "DND - Boys Wear | Premium Streetwear & Fixed Rates",
+  "description": "Exclusive collection of Baggy Jeans, Bell Bottoms, Oversized Tees and Shirts at guaranteed best fixed rates by Sandeep Jat & Chetan Sharma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
